@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Software Projects
 - 📫 How to reach me ? +92 346 537 2896 -- atifrasool780@gmail.com
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atif1169)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atif1169)
 
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=atif1169" />
